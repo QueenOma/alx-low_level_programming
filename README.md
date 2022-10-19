@@ -1,2 +1,1 @@
-#!/bin/bash
-this is a low level language
+a program that prints _putchar, followed by a new line
