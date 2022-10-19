@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- *main-main code
- *Description:print -putchar in a new line
- *Return:this program returns zero
+ * main- print putchar
+ *
+ * Return: Always return 0
+ *
  */
 int main(void)
 {
@@ -17,3 +18,4 @@ int main(void)
 	_putchar('\n');
 	return (0);
 }
+ 
